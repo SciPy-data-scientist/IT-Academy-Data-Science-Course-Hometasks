@@ -1,0 +1,3266 @@
+[
+  {
+    "text": "I have a child. I feel like at his age it's time to brush his teeth. But I don't know if it's too early to start. Also, I don't know which toothpaste to choose, with or without fluoride. I'm also wondering what kind of toothbrush would be safe for a young child.",
+    "keywords": [
+      "child",
+      "fluoride",
+      "toothpaste",
+      "toothbrush"
+    ]
+  },
+  {
+    "text": "I have high blood pressure and diabetes. But I like to drink coffee. How many cups of coffee can I drink a day? When is it better for me to drink it during the day? What type of coffee  should I drink?",
+    "keywords": [
+      "high blood pressure",
+      "diabetes",
+      "coffee consumption",
+      "coffee type"
+    ]
+  },
+  {
+    "text": "I have an infant. I want to make a crib for him to sleep in. I heard that babies that age should sleep without a blanket and pillow? Is that true?",
+    "keywords": [
+      "infant",
+      "sleep",
+      "crib",
+      "blanket",
+      "pillow"
+    ]
+  },
+  {
+    "text": "I want my preschool age child to start playing sports. But I don't know what kind of sport would be good for him. What kind of sports can I offer him?",
+    "keywords": [
+      "preschool child",
+      "sports",
+      "benefits"
+    ]
+  },
+  {
+    "text": "I like to vacation at the sea and spend a lot of time on the beach swimming. It seems to me that it is very good for health. How true is that?",
+    "keywords": [
+      "vacation",
+      "sea",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "I have high blood pressure. My doctor has prescribed medicines to lower it. But I do not want to take them because I am afraid that I will have to take them for the rest of my life. How important is it to take these medicines?",
+    "keywords": [
+      "high blood pressure",
+      "medicines"
+    ]
+  },
+  {
+    "text": "I like to consume red wine. But there is a lot of conflicting information about its benefits or harms. How much wine is safe to consume per day?",
+    "keywords": [
+      "red wine",
+      "health benefits",
+      "risks"
+    ]
+  },
+  {
+    "text": "I don't know which is better, breastfeeding or formula feeding? I want to ensure maximum benefit for my baby.",
+    "keywords": [
+      "breastfeeding",
+      "formula feeding",
+      "benefits"
+    ]
+  },
+  {
+    "text": "I know that men get prostate problems as they age. I would like to avoid them. At what age should men have a medical examination to rule out prostate problems?",
+    "keywords": [
+      "medical exams",
+      "prostate health",
+      "age"
+    ]
+  },
+  {
+    "text": "I have pain and dizziness. I fear that I have high blood pressure. What are the symptoms of high blood pressure?",
+    "keywords": [
+      "high blood pressure",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "I'm a middle-aged man. I am at risk for high blood pressure. How can I prevent high blood pressure?",
+    "keywords": [
+      "middle-aged man",
+      "high blood pressure",
+      "prevention"
+    ]
+  },
+  {
+    "text": "Who is at risk for high blood pressure? My relatives have had problems with high blood pressure in the past. Do I belong to the risk group?",
+    "keywords": [
+      "high blood pressure",
+      "risk group",
+      "family history"
+    ]
+  },
+  {
+    "text": "My parents have been diagnosed with high blood pressure. What are some effective treatments for high blood pressure?",
+    "keywords": [
+      "high blood pressure",
+      "treatments"
+    ]
+  },
+  {
+    "text": "I have an argument with my parents about normal blood pressure at different ages. They argue that an increase in normal blood pressure with age is normal. Does normal blood pressure vary with age?",
+    "keywords": [
+      "normal blood pressure",
+      "age differences"
+    ]
+  },
+  {
+    "text": "I know about effective prescription therapeutic treatments for high blood pressure. Are there effective over-the-counter treatments for high blood pressure?",
+    "keywords": [
+      "high blood pressure",
+      "over-the-counter",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What are Urinary Tract Infections?",
+    "keywords": [
+      "urinary tract infections",
+      "definition",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "I have been diagnosed with a urinary tract infection. But I'm not sure how I got the infection. What causes urinary tract infections?",
+    "keywords": [
+      "urinary tract infection",
+      "causes"
+    ]
+  },
+  {
+    "text": "I've been diagnosed with thrush. The doctor claims I have a urinary tract infection. What are their symptoms other than thrush?",
+    "keywords": [
+      "urinary tract infection",
+      "symptoms",
+      "thrush"
+    ]
+  },
+  {
+    "text": "I try to take care of my intimate health. But it is difficult to do so with an active sexual life. How can I prevent urinary tract infections?",
+    "keywords": [
+      "uterinary tract infections",
+      "prevention",
+      "sexual health"
+    ]
+  },
+  {
+    "text": "I am the mother of a teenage girl. I would like to prevent her from developing cancer caused by the human papillomavirus in the future. At what age should girls be vaccinated against the human papillomavirus?",
+    "keywords": [
+      "human papillomavirus",
+      "girl",
+      "vaccination age"
+    ]
+  },
+  {
+    "text": "Should girls be vaccinated against human papillomavirus?",
+    "keywords": [
+      "human Papillomavirus",
+      "vaccination",
+      "girls"
+    ]
+  },
+  {
+    "text": "I heard that there is a vaccination against human papillomavirus for girls. But do boys need to be vaccinated against human papillomavirus?",
+    "keywords": [
+      "human papillomavirus",
+      "vaccination",
+      "boys"
+    ]
+  },
+  {
+    "text": "Should boys be vaccinated against HPV?",
+    "keywords": [
+      "HPV",
+      "vaccination",
+      "boys"
+    ]
+  },
+  {
+    "text": "Should girls be vaccinated against HPV?",
+    "keywords": [
+      "HPV",
+      "vaccination",
+      "girls"
+    ]
+  },
+  {
+    "text": "At what age should girls be vaccinated against HPV?",
+    "keywords": [
+      "HPV",
+      "vaccination age",
+      "girls"
+    ]
+  },
+  {
+    "text": "Are immunizations safe for children?",
+    "keywords": [
+      "immunization",
+      "child",
+      "safety"
+    ]
+  },
+  {
+    "text": "Are immunizations harmless for children?",
+    "keywords": [
+      "immunization",
+      "child",
+      "safety"
+    ]
+  },
+  {
+    "text": "My baby doesn't want to stop using the pacifier. Until what age is it safe for my child to use a pacifier?",
+    "keywords": [
+      "pacifier",
+      "safety",
+      "child age"
+    ]
+  },
+  {
+    "text": "What kind of pacifiers can I use for my baby?",
+    "keywords": [
+      "pacifier",
+      "options"
+    ]
+  },
+  {
+    "text": "Until what age can a baby be breastfed?",
+    "keywords": [
+      "breastfeeding",
+      "child age",
+      "guidelines"
+    ]
+  },
+  {
+    "text": "At what age should you start complementary foods for a baby?",
+    "keywords": [
+      "complementary foods",
+      "baby",
+      "timing"
+    ]
+  },
+  {
+    "text": "What are the symptoms of vitamin C deficiency in adult humans?",
+    "keywords": [
+      "vitamin \"C\" deficiency",
+      "ascorbic acid",
+      "adult",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What are the symptoms of vitamin C deficiency in children?",
+    "keywords": [
+      "vitamin \"C\" deficiency",
+      "ascorbic acid",
+      "symptoms",
+      "children"
+    ]
+  },
+  {
+    "text": "What are the symptoms of vitamin D deficiency in adult humans?",
+    "keywords": [
+      "vitamin \"D\" deficiency",
+      "adult",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What are the symptoms of vitamin D deficiency in children?",
+    "keywords": [
+      "vitamin \"D\" deficiency",
+      "symptoms",
+      "children"
+    ]
+  },
+  {
+    "text": "What are the symptoms of vitamin A deficiency in adult humans?",
+    "keywords": [
+      "vitamin \"A\" deficiency",
+      "adult",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What are the symptoms of vitamin A deficiency in children?",
+    "keywords": [
+      "children",
+      "vitamin \"A\"",
+      "deficiency",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What vitamins and supplements should women take during pregnancy?",
+    "keywords": [
+      "vitamins",
+      "supplements",
+      "pregnancy"
+    ]
+  },
+  {
+    "text": "Why is it necessary to take folic acid in pregnancy?",
+    "keywords": [
+      "folic acid",
+      "pregnancy",
+      "cause"
+    ]
+  },
+  {
+    "text": "Do I need to take folic acid in pregnancy?",
+    "keywords": [
+      "folic acid",
+      "pregnancy",
+      "need"
+    ]
+  },
+  {
+    "text": "What are the symptoms of colic in babies?",
+    "keywords": [
+      "colic",
+      "babies",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What are the recommendations for preventing colic in children?",
+    "keywords": [
+      "colic prevention",
+      "children"
+    ]
+  },
+  {
+    "text": "What are the recommendations for treating colic in children?",
+    "keywords": [
+      "colic treatment",
+      "children"
+    ]
+  },
+  {
+    "text": "Who is at risk for Urinary Tract Infections?",
+    "keywords": [
+      "Urinary tract infections",
+      "risks",
+      "patient information"
+    ]
+  },
+  {
+    "text": "How to prevent Urinary Tract Infections?",
+    "keywords": [
+      "urinary tract infections",
+      "prevention"
+    ]
+  },
+  {
+    "text": "What are the symptoms of alcohol abuse?",
+    "keywords": [
+      "alcohol abuse",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What are the symptoms of alcohol abuse in children?",
+    "keywords": [
+      "alcohol abuse",
+      "symptoms",
+      "children"
+    ]
+  },
+  {
+    "text": "What are the symptoms of alcohol abuse in adults?",
+    "keywords": [
+      "alcohol abuse",
+      "symptoms",
+      "adult"
+    ]
+  },
+  {
+    "text": "What are the treatments for Alcohol abuse?",
+    "keywords": [
+      "alcohol abuse",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What is Osteoarthritis?",
+    "keywords": [
+      "osteoarthritis",
+      "definition"
+    ]
+  },
+  {
+    "text": "At what age does osteoarthritis develop?",
+    "keywords": [
+      "osteoarthritis",
+      "age development"
+    ]
+  },
+  {
+    "text": "At what age do the first signs of osteoarthritis appear?",
+    "keywords": [
+      "osteoarthritis",
+      "age development"
+    ]
+  },
+  {
+    "text": "What are the symptoms of Osteoarthritis?",
+    "keywords": [
+      "osteoarthritis",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What are the treatments for Osteoarthritis?",
+    "keywords": [
+      "osteoarthritis",
+      "treatment"
+    ]
+  },
+  {
+    "text": "How many people are affected by Osteoarthritis?",
+    "keywords": [
+      "osteoarthritis",
+      "prevalence"
+    ]
+  },
+  {
+    "text": "What is Anxiety Disorders?",
+    "keywords": [
+      "anxiety disorders",
+      "definition"
+    ]
+  },
+  {
+    "text": "What are the symptoms of Anxiety Disorders?",
+    "keywords": [
+      "anxiety disorders",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "How to diagnose Anxiety Disorders?",
+    "keywords": [
+      "anxiety disorders",
+      "diagnosis"
+    ]
+  },
+  {
+    "text": "What research is being done for Anxiety Disorders?",
+    "keywords": [
+      "anxiety disorders",
+      "research"
+    ]
+  },
+  {
+    "text": "What clinical trials is being done for Anxiety Disorders?",
+    "keywords": [
+      "anxiety disorders",
+      "clinical trials"
+    ]
+  },
+  {
+    "text": "How many people are affected by Anxiety Disorders?",
+    "keywords": [
+      "anxiety disorders",
+      "prevalence"
+    ]
+  },
+  {
+    "text": "Who is at risk for Anxiety Disorders?",
+    "keywords": [
+      "anxiety disorders",
+      "risks",
+      "patient information"
+    ]
+  },
+  {
+    "text": "What are the treatments for Anxiety Disorders?",
+    "keywords": [
+      "anxiety disorders",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What is Diabetes?",
+    "keywords": [
+      "Diabetes",
+      "definition"
+    ]
+  },
+  {
+    "text": "Who is at risk for Diabetes?",
+    "keywords": [
+      "Diabetes",
+      "risks",
+      "patient information"
+    ]
+  },
+  {
+    "text": "Are there safe sugar substitutes?",
+    "keywords": [
+      "sugar substitutes",
+      "safety"
+    ]
+  },
+  {
+    "text": "Are there sugar substitutes that are safe for children?",
+    "keywords": [
+      "sugar substitutes",
+      "safety",
+      "children"
+    ]
+  },
+  {
+    "text": "At what age can children eat sugar substitutes?",
+    "keywords": [
+      "sugar substitutes",
+      "child age"
+    ]
+  },
+  {
+    "text": "At what age can children eat sugar substitutes?",
+    "keywords": [
+      "sugar substitutes",
+      "child age"
+    ]
+  },
+  {
+    "text": "What medical conditions should children not eat sugar substitutes?",
+    "keywords": [
+      "medical conditions",
+      "children",
+      "sugar substitutes"
+    ]
+  },
+  {
+    "text": "What health conditions should adults not eat sugar substitutes?",
+    "keywords": [
+      "sugar substitutes",
+      "medical conditions",
+      "adult humans"
+    ]
+  },
+  {
+    "text": "How to prevent Diabetes?",
+    "keywords": [
+      "Diabetes",
+      "prevention"
+    ]
+  },
+  {
+    "text": "What are the symptoms of Diabetes?",
+    "keywords": [
+      "Diabetes",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What are the treatments for Diabetes?",
+    "keywords": [
+      "Diabetes",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What are some ways to quit smoking?",
+    "keywords": [
+      "smoking quitting",
+      "tips",
+      "medication"
+    ]
+  },
+  {
+    "text": "Is it easy to quit smoking?",
+    "keywords": [
+      "smoking quitting",
+      "ease"
+    ]
+  },
+  {
+    "text": "What are the health consequences of quitting smoking?",
+    "keywords": [
+      "quitting smoking",
+      "health consequences"
+    ]
+  },
+  {
+    "text": "What are the health benefits of quitting smoking?",
+    "keywords": [
+      "quitting smoking",
+      "health benefit"
+    ]
+  },
+  {
+    "text": "Are there health benefits to smoking vape?",
+    "keywords": [
+      "smoking vape",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "At what age can I smoke vape?",
+    "keywords": [
+      "smoking vape",
+      "age"
+    ]
+  },
+  {
+    "text": "What is Prostate Cancer?",
+    "keywords": [
+      "prostate cancer",
+      "definition"
+    ]
+  },
+  {
+    "text": "Who is at risk for Prostate Cancer?",
+    "keywords": [
+      "prostate cancer",
+      "risks"
+    ]
+  },
+  {
+    "text": "What are the symptoms of Prostate Cancer?",
+    "keywords": [
+      "prostate cancer",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What are the treatments for Prostate Cancer?",
+    "keywords": [
+      "prostate cancer",
+      "treatment"
+    ]
+  },
+  {
+    "text": "How many people are affected by Prostate Cancer?",
+    "keywords": [
+      "prostate cancer",
+      "prevalence"
+    ]
+  },
+  {
+    "text": "How is prostate cancer diagnosed?",
+    "keywords": [
+      "prostate cancer",
+      "diagnosis"
+    ]
+  },
+  {
+    "text": "At what age should men get medical exams to rule out prostate cancer?",
+    "keywords": [
+      "prostate cancer",
+      "screening",
+      "age "
+    ]
+  },
+  {
+    "text": "Do immunizations cause children to develop autism?",
+    "keywords": [
+      "immunization",
+      "autism",
+      "children"
+    ]
+  },
+  {
+    "text": "Do vaccinations cause autism in children?",
+    "keywords": [
+      "vaccination",
+      "autism",
+      "children"
+    ]
+  },
+  {
+    "text": "Do adults need to be immunized against childhood diseases?",
+    "keywords": [
+      "immunization",
+      "childhood diseases",
+      "adults"
+    ]
+  },
+  {
+    "text": "Do I need to get immunizations as an adult?",
+    "keywords": [
+      "immunization",
+      "adult"
+    ]
+  },
+  {
+    "text": "What immunizations should I get again as an adult?",
+    "keywords": [
+      "immunization",
+      "adult"
+    ]
+  },
+  {
+    "text": "Are there any side effects to vaccinations?",
+    "keywords": [
+      "vaccination",
+      "side effects"
+    ]
+  },
+  {
+    "text": "Should children consume fluoridated drinking water?",
+    "keywords": [
+      "fluoridated drinking water",
+      "children"
+    ]
+  },
+  {
+    "text": "Is fluoridated drinking water safe for infants?",
+    "keywords": [
+      "fluoridated drinking water",
+      "safe",
+      "children"
+    ]
+  },
+  {
+    "text": "Is fluoridated drinking water safe for adults?",
+    "keywords": [
+      "fluoridated drinking water",
+      "safe",
+      "adults"
+    ]
+  },
+  {
+    "text": "What are some food sources of fluoride?",
+    "keywords": [
+      "fluoride",
+      "food sources",
+      "diet"
+    ]
+  },
+  {
+    "text": "Reading books for adults on parenting",
+    "keywords": [
+      "parenting",
+      "books"
+    ]
+  },
+  {
+    "text": "What should reading books designed for young children be like?",
+    "keywords": [
+      "book design",
+      "young children"
+    ]
+  },
+  {
+    "text": "Are digital gadgets harmful to young children?",
+    "keywords": [
+      "digital gadgets",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is it safe for young children to eat cheese?",
+    "keywords": [
+      "cheese",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is it safe for young children to consume honey?",
+    "keywords": [
+      "honey",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is it safe for young children to eat eggs?",
+    "keywords": [
+      "eggs",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is it safe for young children to eat fish?",
+    "keywords": [
+      "fish",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is it safe for young children to consume nuts?",
+    "keywords": [
+      "nuts",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is peanut consumption safe for young children?",
+    "keywords": [
+      "peanut",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is seafood safe for young children to eat?",
+    "keywords": [
+      "seafoods",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is it safe for young children to eat chocolate?",
+    "keywords": [
+      "chocolate",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is coffee consumption safe for young children?",
+    "keywords": [
+      "coffee",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Is it safe for young children to consume berries?",
+    "keywords": [
+      "berries",
+      "safe",
+      "young children"
+    ]
+  },
+  {
+    "text": "Up to what age in children can diapers be used?",
+    "keywords": [
+      "diapers",
+      "potty",
+      "age limit"
+    ]
+  },
+  {
+    "text": "Are diapers harmful to babies' skin?",
+    "keywords": [
+      "diapers",
+      "skin health"
+    ]
+  },
+  {
+    "text": "Are diapers harmful to children's genital development?",
+    "keywords": [
+      "diapers",
+      "genital development"
+    ]
+  },
+  {
+    "text": "Recommendations for diaper use in children",
+    "keywords": [
+      "diapers",
+      "children",
+      "recommendations"
+    ]
+  },
+  {
+    "text": "Do babies need swaddling?",
+    "keywords": [
+      "swaddling",
+      "babies"
+    ]
+  },
+  {
+    "text": "Is swaddling babies useful?",
+    "keywords": [
+      "swaddling",
+      "babies",
+      "useful"
+    ]
+  },
+  {
+    "text": "Is swaddling babies safe?",
+    "keywords": [
+      "swaddling",
+      "babies",
+      "safe"
+    ]
+  },
+  {
+    "text": "At what age should children be potty trained?",
+    "keywords": [
+      "potty training",
+      "child age"
+    ]
+  },
+  {
+    "text": "Is wearing a diaper for long periods of time harmful to a baby's health?",
+    "keywords": [
+      "diaper",
+      "baby",
+      "health"
+    ]
+  },
+  {
+    "text": "Where should you start potty training your child?",
+    "keywords": [
+      "potty training",
+      "child",
+      "tips"
+    ]
+  },
+  {
+    "text": "What are some recommendations for potty training a child?",
+    "keywords": [
+      "potty training",
+      "child",
+      "recommendations"
+    ]
+  },
+  {
+    "text": "Is wearing a diaper for long periods of time harmful to a adult's health?",
+    "keywords": [
+      "diaper",
+      "adults",
+      "health"
+    ]
+  },
+  {
+    "text": "At what age can the first signs of dementia be observed?",
+    "keywords": [
+      "dementia",
+      "development age"
+    ]
+  },
+  {
+    "text": "What might the first signs of dementia look like?",
+    "keywords": [
+      "dementia",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What can cause dementia?",
+    "keywords": [
+      "dementia",
+      "cause"
+    ]
+  },
+  {
+    "text": "Can the development of dementia be prevented?",
+    "keywords": [
+      "dementia",
+      "prevention"
+    ]
+  },
+  {
+    "text": "Is it possible to stop the progression of dementia?",
+    "keywords": [
+      "dementia",
+      "progression",
+      "prevention"
+    ]
+  },
+  {
+    "text": "Is everyone at risk of developing dementia?",
+    "keywords": [
+      "dementia",
+      "risks"
+    ]
+  },
+  {
+    "text": "What is the prevalence of dementia?",
+    "keywords": [
+      "dementia",
+      "prevalence"
+    ]
+  },
+  {
+    "text": "What is the prevalence of dementia in women?",
+    "keywords": [
+      "dementia",
+      "prevalence",
+      "women"
+    ]
+  },
+  {
+    "text": "What is the prevalence of dementia in men?",
+    "keywords": [
+      "dementia",
+      "prevalence",
+      "men"
+    ]
+  },
+  {
+    "text": "What environmental factors may contribute to the development of dementia?",
+    "keywords": [
+      "dementia",
+      "development",
+      "environmental factors"
+    ]
+  },
+  {
+    "text": "My father has been diagnosed with dementia. Are there hereditary factors that may contribute to the development of dementia and what are they?",
+    "keywords": [
+      "dementia",
+      "development",
+      "hereditary factors"
+    ]
+  },
+  {
+    "text": "Some diseases can be inherited, genetically. What are these diseases? What are their symptoms?",
+    "keywords": [
+      "inherited diseases",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "How can inherited diseases be prevented?",
+    "keywords": [
+      "inherited diseases",
+      "prevention"
+    ]
+  },
+  {
+    "text": "At what age should girls be vaccinated against the human papillomavirus?",
+    "keywords": [
+      "human papillomavirus",
+      "vaccination age",
+      "girls"
+    ]
+  },
+  {
+    "text": "What are their symptoms of urinary tract infections?",
+    "keywords": [
+      "urinary tract infections",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "Does candidiasis refer to a urinary tract infection? What bacteria or viruses cause it?",
+    "keywords": [
+      "candidiasis",
+      "causes"
+    ]
+  },
+  {
+    "text": "My gynecologist advised me not to use cosmetics with retinols during pregnancy, claiming it was dangerous for the fetus. Is this true?",
+    "keywords": [
+      "cosmetics",
+      "retinols",
+      "pregnancy",
+      "avoid"
+    ]
+  },
+  {
+    "text": "What cosmetics should I avoid using during pregnancy? What dangerous substances do they contain?",
+    "keywords": [
+      "cosmetics",
+      "pregnancy",
+      "avoid"
+    ]
+  },
+  {
+    "text": "I'm a sexually active adult woman. Should I be vaccinated against the human papillomavirus?",
+    "keywords": [
+      "human papillomavirus",
+      "vaccination",
+      "adult woman"
+    ]
+  },
+  {
+    "text": "I am planning a pregnancy. What is the optimal age for pregnancy?",
+    "keywords": [
+      "pregnancy",
+      "optimal age"
+    ]
+  },
+  {
+    "text": "My wife and I are planning a pregnancy. What is the optimal age for a man to conceive a child?",
+    "keywords": [
+      "pregnancy planning",
+      "optimal age",
+      "man"
+    ]
+  },
+  {
+    "text": "My wife and I are planning to use reproductive technology to conceive a child. How safe is it for the woman?",
+    "keywords": [
+      "reproductive technology",
+      "risks",
+      "safe"
+    ]
+  },
+  {
+    "text": "My wife and I are planning to use in vitro fertilization technology to conceive a child. How safe is it for the woman?",
+    "keywords": [
+      "in vitro fertilization",
+      "risks",
+      "safe"
+    ]
+  },
+  {
+    "text": "My wife and I are planning to use in vitro fertilization technology to conceive a child. What are the contraindications for a woman?",
+    "keywords": [
+      "in vitro fertilization",
+      "contraindications"
+    ]
+  },
+  {
+    "text": "My wife and I are planning to use IVF technology to conceive a child. What are the contraindications for a woman?",
+    "keywords": [
+      "IVF",
+      "contraindications"
+    ]
+  },
+  {
+    "text": "We are planning to conceive a child using the in vitro fertilization technology. Can we choose the sex of the baby?",
+    "keywords": [
+      "in vitro fertilization",
+      "child sex selection"
+    ]
+  },
+  {
+    "text": "We are planning to conceive a child using the in vitro fertilization technology. What genetic diseases in the child can be ruled out by this technology?",
+    "keywords": [
+      "in vitro fertilization",
+      "genetic diseases"
+    ]
+  },
+  {
+    "text": "I've been diagnosed with Cushing's syndrome. Is there any chance of passing this disease on to my future children?",
+    "keywords": [
+      "Cushing syndrome",
+      "inheritance"
+    ]
+  },
+  {
+    "text": "Is coronavirus infection dangerous for pregnant women?",
+    "keywords": [
+      "coronavirus",
+      "pregnant women",
+      "risks"
+    ]
+  },
+  {
+    "text": "Is the coronavirus vaccine safe for pregnant women?",
+    "keywords": [
+      "coronavirus vaccine",
+      "pregnant women",
+      "safe"
+    ]
+  },
+  {
+    "text": "What is the best time to be vaccinated against coronavirus infection in pregnancy?",
+    "keywords": [
+      "coronavirus",
+      "vaccination",
+      "gestational age"
+    ]
+  },
+  {
+    "text": "I am overweight. Which is better for my health: walking, running or cycling?",
+    "keywords": [
+      "obesity",
+      "physical activities",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "If I am overweight, does prolonged walking cause damage to my knee joints?",
+    "keywords": [
+      "obesity",
+      "walking",
+      "knee joints"
+    ]
+  },
+  {
+    "text": "How many vegetables should I be eating?",
+    "keywords": [
+      "eating",
+      "vegetables",
+      "portions"
+    ]
+  },
+  {
+    "text": "How best to avoid excess sodium?",
+    "keywords": [
+      "excess sodium",
+      "diet",
+      "avoid"
+    ]
+  },
+  {
+    "text": "Is fish oil just as good as fish?",
+    "keywords": [
+      "fish oil",
+      "fish",
+      "benefits"
+    ]
+  },
+  {
+    "text": "Are all types of fish safe?",
+    "keywords": [
+      "eating",
+      "fish types",
+      "safe"
+    ]
+  },
+  {
+    "text": "Will diet sodas help me lose weight?",
+    "keywords": [
+      "diet soda",
+      "lose weight"
+    ]
+  },
+  {
+    "text": "Are artificial sweeteners safe?",
+    "keywords": [
+      "artificial sweeteners",
+      "safe"
+    ]
+  },
+  {
+    "text": "Are fat-free foods better for me?",
+    "keywords": [
+      "fat-free foods",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "Are nuts good for me?",
+    "keywords": [
+      "nuts",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "How much alcohol is OK to drink?",
+    "keywords": [
+      "alcohol",
+      "safe portion"
+    ]
+  },
+  {
+    "text": "Should I Go Gluten-Free?",
+    "keywords": [
+      "gluten-free diet",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "Is a Daily Glass of Wine Healthy?",
+    "keywords": [
+      "wine",
+      "safe portion"
+    ]
+  },
+  {
+    "text": "Are Short Workouts Worth It?",
+    "keywords": [
+      "short workouts",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "Is Tap Water Safe to Drink?",
+    "keywords": [
+      "tap water",
+      "safe"
+    ]
+  },
+  {
+    "text": "Sugar or High Fructose Corn Syrup?",
+    "keywords": [
+      "Sugar",
+      "High Fructose Corn Syrup",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "Is Microwaved Food Unsafe?",
+    "keywords": [
+      "microwaved food",
+      "risks"
+    ]
+  },
+  {
+    "text": "Do Cell Phones Cause Brain Cancer?",
+    "keywords": [
+      "cell phones",
+      "brain cancer",
+      "risks"
+    ]
+  },
+  {
+    "text": "Can I Be Fat and Healthy?",
+    "keywords": [
+      "obesity",
+      "health"
+    ]
+  },
+  {
+    "text": "How Much Sleep Do I Need?",
+    "keywords": [
+      "sleep",
+      "timing"
+    ]
+  },
+  {
+    "text": "What Is a Sleep Disorder?",
+    "keywords": [
+      "sleep disorders",
+      "definition"
+    ]
+  },
+  {
+    "text": "Who's at Risk for Sleep Disorders?",
+    "keywords": [
+      "sleep disorders",
+      "risk factors"
+    ]
+  },
+  {
+    "text": "Does naps help with sleep disorders?",
+    "keywords": [
+      "sleep disorders",
+      "napping",
+      "benefits"
+    ]
+  },
+  {
+    "text": "Does Alcohol help with sleep disorders?",
+    "keywords": [
+      "sleep disorders",
+      "alcohol",
+      "influence"
+    ]
+  },
+  {
+    "text": "What type of toothbrush and toothpaste should I use?",
+    "keywords": [
+      "toothbrush",
+      "toothpaste",
+      "options"
+    ]
+  },
+  {
+    "text": "Do I really need to floss?",
+    "keywords": [
+      "floss",
+      "need"
+    ]
+  },
+  {
+    "text": "Does a rinse or mouthwash help?",
+    "keywords": [
+      "rinse",
+      "mouthwash",
+      "benefits"
+    ]
+  },
+  {
+    "text": "What are early signs of dental trouble?",
+    "keywords": [
+      "dental problems",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "Why do I need dental exams?",
+    "keywords": [
+      "dental exams",
+      "need"
+    ]
+  },
+  {
+    "text": "Are dental X-rays safe and needed?",
+    "keywords": [
+      "dental exams",
+      "X-rays",
+      "safe",
+      "need"
+    ]
+  },
+  {
+    "text": "Do teeth need fluoride?",
+    "keywords": [
+      "fluoride",
+      "teeth",
+      "need"
+    ]
+  },
+  {
+    "text": "What's the best way to whiten my teeth?",
+    "keywords": [
+      "teeth",
+      "whitening",
+      "options"
+    ]
+  },
+  {
+    "text": "Are sweets and ice really bad for my teeth?",
+    "keywords": [
+      "sweet",
+      "ice",
+      "teeth",
+      "problems"
+    ]
+  },
+  {
+    "text": "Aside from birth control are there other benefits from being on the pill?",
+    "keywords": [
+      "birth control pills",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "I won't get pregnant the first time I have sex, right?",
+    "keywords": [
+      "first sex",
+      "pregnancy chances"
+    ]
+  },
+  {
+    "text": "How will the pill affect my period?",
+    "keywords": [
+      "pill",
+      "periods",
+      "effect"
+    ]
+  },
+  {
+    "text": "Will the pill make me gain weight?",
+    "keywords": [
+      "birth control pills",
+      "weight gain"
+    ]
+  },
+  {
+    "text": "I heard taking the pill can help my acne, is that true?",
+    "keywords": [
+      "birth control pills",
+      "acne",
+      "benefits"
+    ]
+  },
+  {
+    "text": "Will being on birth control protect me against sexually transmitted diseases?",
+    "keywords": [
+      "birth control pills",
+      "sexually transmitted diseases",
+      "protection"
+    ]
+  },
+  {
+    "text": "What are my options for emergency birth control if I've had unprotected sex?",
+    "keywords": [
+      "unprotected sex",
+      "birth control options"
+    ]
+  },
+  {
+    "text": "What is arsenic and how does it get into foods?",
+    "keywords": [
+      "arsenic",
+      "foods sources"
+    ]
+  },
+  {
+    "text": "Are there particular foods that arsenic is in?",
+    "keywords": [
+      "arsenic",
+      "foods",
+      "particular risks"
+    ]
+  },
+  {
+    "text": "Should I stop drinking juice, or should my kids because of the risk of arsenic intake?",
+    "keywords": [
+      "arsenic",
+      "food juices",
+      "risks"
+    ]
+  },
+  {
+    "text": "Is organic juice/rice/other foods any better, in terms of arsenic risk?",
+    "keywords": [
+      "arsenic",
+      "organic foods",
+      "risks"
+    ]
+  },
+  {
+    "text": "Is arsenic tested for in foods?",
+    "keywords": [
+      "arsenic",
+      "foods",
+      "testing"
+    ]
+  },
+  {
+    "text": "What are the signs that someone may have gotten too much arsenic from their diet?",
+    "keywords": [
+      "arsenic toxicity",
+      "foods",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "What is the difference between organic and inorganic arsenic?",
+    "keywords": [
+      "organic arsenic",
+      "inorganic arsenic",
+      "difference"
+    ]
+  },
+  {
+    "text": "BUT, EXACTLY WHAT ARE VITAMINS, NUTRIENTS AND MINERALS \u0432\u0402\u201c WHAT IS THE DIFFERENCE BETWEEN THEM, AND WHAT DO THEY DO FOR MY HEALTH?",
+    "keywords": [
+      "VITAMINS",
+      "NUTRIENTS",
+      "MINERALS",
+      "DIFFERENCE",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "WHY SHOULD WE EAT MORE VEGETABLES?",
+    "keywords": [
+      "eating",
+      "vegetables",
+      "benefits"
+    ]
+  },
+  {
+    "text": "CAN YOU EAT HEALTHY FOOD AND STILL BE OVERWEIGHT?",
+    "keywords": [
+      "HEALTHY eating",
+      "obesity",
+      "chances"
+    ]
+  },
+  {
+    "text": "HOW CAN I EAT HEALTHILY IN ORDER TO LOSE WEIGHT?",
+    "keywords": [
+      "HEALTHY eating",
+      "WEIGHT LOSS"
+    ]
+  },
+  {
+    "text": "When do health experts say you should start to get mammograms?",
+    "keywords": [
+      "mammogram",
+      "age"
+    ]
+  },
+  {
+    "text": "What are the upsides to starting mammograms at 40?",
+    "keywords": [
+      "mammogram",
+      "40 years",
+      "benefits"
+    ]
+  },
+  {
+    "text": "Should I be concerned about the radiation from mammograms?",
+    "keywords": [
+      "mammogram",
+      "radiation concerns"
+    ]
+  },
+  {
+    "text": "I have a family history of breast cancer. Do any of the guidelines we're talking about apply to me?",
+    "keywords": [
+      "breast cancer",
+      "family history",
+      "prevention guidelines"
+    ]
+  },
+  {
+    "text": "No one in my family has ever had breast cancer. Why should I bother getting checked at any age?",
+    "keywords": [
+      "breast cancer",
+      "without family history",
+      "screening",
+      "causes"
+    ]
+  },
+  {
+    "text": "Is it safe to take a decongestant if I have high blood pressure?",
+    "keywords": [
+      "high blood pressure",
+      "decongestant",
+      "risks"
+    ]
+  },
+  {
+    "text": "How often can I use nasal sprays for congestion?",
+    "keywords": [
+      "congestion",
+      "nasal sprays",
+      "use frequency"
+    ]
+  },
+  {
+    "text": "What cold medicine should I take for a fever and aches?",
+    "keywords": [
+      "fever",
+      "aches",
+      "cold medicine"
+    ]
+  },
+  {
+    "text": "What's the best medicine for my sore throat?",
+    "keywords": [
+      "sore throat",
+      "medicine",
+      "best options"
+    ]
+  },
+  {
+    "text": "Are combination cold medicines effective?",
+    "keywords": [
+      "cold medicines combination",
+      "effective"
+    ]
+  },
+  {
+    "text": "How effective are natural cold remedies like zinc, echinacea, and vitamin C?",
+    "keywords": [
+      "cold remedies",
+      "natural",
+      "effective"
+    ]
+  },
+  {
+    "text": "Can antibiotics treat a cold?",
+    "keywords": [
+      "antibiotics",
+      "cold treatment"
+    ]
+  },
+  {
+    "text": "Are kids' cold medicines safe?",
+    "keywords": [
+      "cold medicines",
+      "kids",
+      "safe"
+    ]
+  },
+  {
+    "text": "Does becoming a vegetarian mean I can not eat fish or eggs?",
+    "keywords": [
+      "vegetarian",
+      "fish",
+      "eggs"
+    ]
+  },
+  {
+    "text": "Is a vegetarian diet healthier than a meat-eating diet?",
+    "keywords": [
+      "vegetarian diet",
+      "meat-eating diet",
+      "benefits"
+    ]
+  },
+  {
+    "text": "What types of food should I eat on vegetarian diet?",
+    "keywords": [
+      "vegetarian diet",
+      "foods"
+    ]
+  },
+  {
+    "text": "I'm vegetarian. Will I lose weight?",
+    "keywords": [
+      "vegetarian",
+      "weight loss"
+    ]
+  },
+  {
+    "text": "What is antibiotic resistance, and how does it develop?",
+    "keywords": [
+      "antibiotic resistance",
+      "development"
+    ]
+  },
+  {
+    "text": "Which Sexually Transmitted Diseases are causing the most concern?",
+    "keywords": [
+      "Sexually Transmitted Diseases",
+      "concerns"
+    ]
+  },
+  {
+    "text": "Can Sexually Transmitted Diseases be treated?",
+    "keywords": [
+      "sexually transmitted diseases",
+      "treatment"
+    ]
+  },
+  {
+    "text": "How common are Sexually Transmitted Diseases in general? How common are the antibiotic-resistant cases?",
+    "keywords": [
+      "sexually transmitted diseases",
+      "antibiotic resistant",
+      "prevalence"
+    ]
+  },
+  {
+    "text": "What Determines Sexual Orientation?",
+    "keywords": [
+      "Sexual Orientation",
+      "definition"
+    ]
+  },
+  {
+    "text": "How often should a woman get a pelvic exam and Pap test?",
+    "keywords": [
+      "pelvic exam",
+      "pap test",
+      "frequency"
+    ]
+  },
+  {
+    "text": "What Are the Benefits and Risks of Circumcision?",
+    "keywords": [
+      "Circumcision",
+      "benefits",
+      "risks"
+    ]
+  },
+  {
+    "text": "Is vaginal discharge normal?",
+    "keywords": [
+      "vaginal discharge",
+      "causes"
+    ]
+  },
+  {
+    "text": "Is hormone replacement therapy for menopause bad for women?",
+    "keywords": [
+      "hormone replacement therapy",
+      "menopause",
+      "consequences"
+    ]
+  },
+  {
+    "text": "Can a woman get pregnant while breastfeeding?",
+    "keywords": [
+      "breastfeeding",
+      "birth control"
+    ]
+  },
+  {
+    "text": "Can a hysterectomy cause sexual problems for a woman?",
+    "keywords": [
+      "hysterectomy",
+      "sexual problems"
+    ]
+  },
+  {
+    "text": "Can a person with syphilis spread the disease?",
+    "keywords": [
+      "syphilis",
+      "spread"
+    ]
+  },
+  {
+    "text": "Is it OK to use Vaseline as a lubricant with a latex condom?",
+    "keywords": [
+      "Vaseline",
+      "latex condom"
+    ]
+  },
+  {
+    "text": "What should women do when they forget their birth control pills?",
+    "keywords": [
+      "birth control pills",
+      "missing",
+      "recommendations"
+    ]
+  },
+  {
+    "text": "Can a woman get pregnant using the withdrawal method of birth control?",
+    "keywords": [
+      "birth control",
+      "withdrawal method",
+      "effectiveness"
+    ]
+  },
+  {
+    "text": "Why is exercise so good for the heart?",
+    "keywords": [
+      "heart health",
+      "physical activities",
+      "benefits"
+    ]
+  },
+  {
+    "text": "I have pimples. What should I do?",
+    "keywords": [
+      "pimples",
+      "treatment"
+    ]
+  },
+  {
+    "text": "I have acne scars. Will they go away?",
+    "keywords": [
+      "acne scars",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What do I do to prevent or treat ingrown hairs?",
+    "keywords": [
+      "ingrown hairs",
+      "prevention",
+      "treatment"
+    ]
+  },
+  {
+    "text": "My skin is dry and flaky. What should I do?",
+    "keywords": [
+      "dry skin",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What if I need more, or less, than 2,000 calories per day?",
+    "keywords": [
+      "daily calorie intake",
+      "2000"
+    ]
+  },
+  {
+    "text": "Is the calcium in fortified foods just as good as natural sources like dairy?",
+    "keywords": [
+      "calcium",
+      "fortified foods",
+      "dairy"
+    ]
+  },
+  {
+    "text": "Can I Take Supplements on My Own, Without a Doctor?",
+    "keywords": [
+      "food supplements",
+      "prescription"
+    ]
+  },
+  {
+    "text": "Are All Supplements Tested to Make Sure They're Safe and Effective?",
+    "keywords": [
+      "food supplements testing",
+      "safe",
+      "effective"
+    ]
+  },
+  {
+    "text": "How Do I Know Whether a Supplement's Claims Are True or False?",
+    "keywords": [
+      "food supplements claims",
+      "truth"
+    ]
+  },
+  {
+    "text": "Does the FDA Regulate Supplements?",
+    "keywords": [
+      "food supplements",
+      "FDA regulations"
+    ]
+  },
+  {
+    "text": "What Does the Word 'Standardized' on a Supplement Label Mean?",
+    "keywords": [
+      "standardized food supplements",
+      "meaning"
+    ]
+  },
+  {
+    "text": "What Should I Do if I Have a Side Effect From a Supplement?",
+    "keywords": [
+      "food supplements",
+      "side effects",
+      "complaints"
+    ]
+  },
+  {
+    "text": "My hot flashes aren't as intense as the ones my friends describe. Is this normal?",
+    "keywords": [
+      "hot flashes",
+      "options"
+    ]
+  },
+  {
+    "text": "Now that I've begun menopause, should I be concerned about birth control?",
+    "keywords": [
+      "menopause",
+      "woman",
+      "birth control"
+    ]
+  },
+  {
+    "text": "I'm perimenopausal and have been told I should be taking low-dose birth control pills. Why?",
+    "keywords": [
+      "perimenopausal",
+      "low-dose birth control pills"
+    ]
+  },
+  {
+    "text": "What are some of the benefits of taking low-dose birth control pills during menopause?",
+    "keywords": [
+      "low-dose birth control pills",
+      "menopause",
+      "benefits"
+    ]
+  },
+  {
+    "text": "Should I take Hormone Replacement Therapy during menopause?",
+    "keywords": [
+      "Hormone Replacement Therapy",
+      "menopause"
+    ]
+  },
+  {
+    "text": "Besides hormone replacement therapy, how can I treat hot flashes?",
+    "keywords": [
+      "hot flashes",
+      "treatment options"
+    ]
+  },
+  {
+    "text": "Are there natural treatments available for menopause symptoms?",
+    "keywords": [
+      "menopause symptoms",
+      "natural treatments"
+    ]
+  },
+  {
+    "text": "Sex has become painful since menopause. What can I do?",
+    "keywords": [
+      "menopause",
+      "painful sex",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Can menopause cause changes in a woman's voice?",
+    "keywords": [
+      "menopause",
+      "voice change"
+    ]
+  },
+  {
+    "text": "What can I do about facial hair I've developed as a result of menopause?",
+    "keywords": [
+      "menopause",
+      "facial hair"
+    ]
+  },
+  {
+    "text": "How Can I Prevent an Asthma Attack?",
+    "keywords": [
+      "asthma attack",
+      "prevention"
+    ]
+  },
+  {
+    "text": "How Do I Get Tested for Allergies?",
+    "keywords": [
+      "allergies",
+      "testing"
+    ]
+  },
+  {
+    "text": "My Asthma Worsens Whenever I Take Pain Medication. Why?",
+    "keywords": [
+      "Asthma",
+      "worsening",
+      "pain medication",
+      "causes"
+    ]
+  },
+  {
+    "text": "What Are the Side Effects of my Bronchodilator Medicine?",
+    "keywords": [
+      "Bronchodilators",
+      "Side Effects"
+    ]
+  },
+  {
+    "text": "Can Asthma Drugs Affect my Baby if I'm Pregnant?",
+    "keywords": [
+      "Asthma Drugs",
+      "Pregnancy"
+    ]
+  },
+  {
+    "text": "How Can I Prevent Asthma Symptoms After Exercise?",
+    "keywords": [
+      "Asthma Symptoms",
+      "physical activity",
+      "Prevention"
+    ]
+  },
+  {
+    "text": "I'm Exposed to Substances at Work That Worsen my Asthma. What Can I Do to Prevent This?",
+    "keywords": [
+      "Asthma",
+      "worsening",
+      "Substances",
+      "prevention"
+    ]
+  },
+  {
+    "text": "I Have Heartburn. Can It Worsen Asthma?",
+    "keywords": [
+      "Heartburn",
+      "asthma worsening"
+    ]
+  },
+  {
+    "text": "I Have Allergies to Mites and Mold. How Do I Avoid Them?",
+    "keywords": [
+      "mites",
+      "mold",
+      "allergies",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What Do I Do If I Have an Asthma Attack?",
+    "keywords": [
+      "asthma attack",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Why Should I Be Concerned About Cholesterol?",
+    "keywords": [
+      "cholesterol level",
+      "concerns"
+    ]
+  },
+  {
+    "text": "What's the Difference Between 'Good' and 'Bad' Cholesterol?",
+    "keywords": [
+      "Good",
+      "Bad",
+      "Cholesterol"
+    ]
+  },
+  {
+    "text": "Can I Lower My Risk for Heart Disease If I Lower My Cholesterol?",
+    "keywords": [
+      "Cholesterol level",
+      "Heart Disease",
+      "link"
+    ]
+  },
+  {
+    "text": "What Makes My Cholesterol Levels Go Up?",
+    "keywords": [
+      "Cholesterol Level",
+      "growth",
+      "risk factors"
+    ]
+  },
+  {
+    "text": "What Can I Do To Lower My Cholesterol Levels?",
+    "keywords": [
+      "Cholesterol Level",
+      "lower"
+    ]
+  },
+  {
+    "text": "What Drugs Are Used to Treat High Cholesterol?",
+    "keywords": [
+      "High Cholesterol",
+      "treatment"
+    ]
+  },
+  {
+    "text": "If a Product's Package Reads 'Low Cholesterol'. Does That Mean It's Low in Fat?",
+    "keywords": [
+      "Low Cholesterol",
+      "low fat",
+      "meaning"
+    ]
+  },
+  {
+    "text": "At What Age Should People Begin Having Their Cholesterol Checked?",
+    "keywords": [
+      "Cholesterol level",
+      "check",
+      "age"
+    ]
+  },
+  {
+    "text": "I've been having some swelling and bleeding from my gums. What could be going on?",
+    "keywords": [
+      "swelling",
+      "bleeding",
+      "gums",
+      "causes"
+    ]
+  },
+  {
+    "text": "Is it normal to have a low sex drive after having three c sections?",
+    "keywords": [
+      "low sexual activity",
+      "c-sections"
+    ]
+  },
+  {
+    "text": "Does a woman's libido reduce after 3 C-sections?",
+    "keywords": [
+      "low libido",
+      "C-sections",
+      "woman"
+    ]
+  },
+  {
+    "text": "Will my 4th will also be a C-section if my previous 3 have been cesareans? ",
+    "keywords": [
+      "C-sections",
+      "consequences"
+    ]
+  },
+  {
+    "text": "Is it possible for a person to survive metastatic liver cancer?",
+    "keywords": [
+      "metastatic liver cancer",
+      "prognosis"
+    ]
+  },
+  {
+    "text": "How is metastatic liver cancer diagnosed? What is the gold standard test?",
+    "keywords": [
+      "metastatic liver cancer",
+      "diagnosis",
+      "testing"
+    ]
+  },
+  {
+    "text": "What is the prognosis of a metastatic liver cancer?",
+    "keywords": [
+      "metastatic liver cancer",
+      "prognosis"
+    ]
+  },
+  {
+    "text": "Is it possible to have herpes and only have outbreaks in the anal canal and underneath the tongue but not on the mouth or vagina?",
+    "keywords": [
+      "herpes",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "Should one see a local doctor for every herpes breakout? And will the same medication help with all sites?",
+    "keywords": [
+      "herpes",
+      "consultations",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Where all can one experience Herpes breakouts?",
+    "keywords": [
+      "Herpes",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "Can doxycycline treat an ear infection?",
+    "keywords": [
+      "ear infection",
+      "doxycycline",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What causes Osteoarthritis?",
+    "keywords": [
+      "Osteoarthritis",
+      "causes"
+    ]
+  },
+  {
+    "text": "Which antibiotic is best for an ear infection? I have an old course of Doxycycline. Would it work?",
+    "keywords": [
+      "ear infection",
+      "best antibiotic"
+    ]
+  },
+  {
+    "text": "Which is the best antibiotic for sinusitis?",
+    "keywords": [
+      "sinusitis",
+      "best antibiotic"
+    ]
+  },
+  {
+    "text": "Could chiari malformation cause pituitary problems or diabetes insipidus?",
+    "keywords": [
+      "chiari malformation",
+      "pituitary problems",
+      "diabetes insipidus"
+    ]
+  },
+  {
+    "text": "Could homeopathy for acne help?",
+    "keywords": [
+      "acne",
+      "homeopathy",
+      "effectiveness"
+    ]
+  },
+  {
+    "text": "My doctor prescribed me Doxycycline for my pimples. How long would it take for it to work?",
+    "keywords": [
+      "pimples",
+      "Doxycycline",
+      "treatment duration"
+    ]
+  },
+  {
+    "text": "Can coarctation of the aorta cause poor growth in height?",
+    "keywords": [
+      "aorta",
+      "coarctation",
+      "growth delay"
+    ]
+  },
+  {
+    "text": "I am 4' 8. My mom said that I have a birth defect (coarctation of aorta). Are the two related?\"",
+    "keywords": [
+      "coarctation",
+      "aorta",
+      "growth delay"
+    ]
+  },
+  {
+    "text": "What are the side effects of Doxycycline?",
+    "keywords": [
+      "Doxycycline",
+      "side effects"
+    ]
+  },
+  {
+    "text": "I have had sinus issues for a while now. My mom says vinegar would help with them. Is it true? I sort of tried it today...",
+    "keywords": [
+      "sinus issues",
+      "treatment"
+    ]
+  },
+  {
+    "text": "My sister sent me Dr. Reckeweg R53 Acne Vulgaris And Pimples Drop for my zits. Are you aware if this works?",
+    "keywords": [
+      "zits",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Can I give some Aspirin to my kid for his headache?",
+    "keywords": [
+      "headache",
+      "Aspirin",
+      "safe",
+      "child"
+    ]
+  },
+  {
+    "text": "What are the side effects of Aspirin? Can it cause anxiety in children?",
+    "keywords": [
+      "Aspirin",
+      "side effects",
+      "child"
+    ]
+  },
+  {
+    "text": "Could Aspirin cause anxiety in a 12 year old?",
+    "keywords": [
+      "Aspirin",
+      "side effects"
+    ]
+  },
+  {
+    "text": "Could you tell me why my husband has been sweating and vomiting after injecting 30 units of lantis insulin? What should I do?",
+    "keywords": [
+      "lantus insulin",
+      "side effects",
+      "causes",
+      "treatment"
+    ]
+  },
+  {
+    "text": "I was recently detected with high blood sugars. Do you think the doctor will prescribe me insulin? Can I request him to give me pills instead?",
+    "keywords": [
+      "high blood sugar",
+      "insulin",
+      "treatment"
+    ]
+  },
+  {
+    "text": "My husband is a Type 2 Diabetic on Lantus Insulin and Actrapid (to be taken as per his blood sugar readings. About an hour back, he took his usual 30 units of Lantus and vomited. He was sweating as well. Should we be worried?",
+    "keywords": [
+      "Type 2 Diabetic",
+      "Lantus Insulin",
+      "Actrapid",
+      "side effects"
+    ]
+  },
+  {
+    "text": "Does age increase the severity of erectile dysfunction symptoms/problems?",
+    "keywords": [
+      "erectile dysfunction symptoms",
+      "aging"
+    ]
+  },
+  {
+    "text": "I think I have erectile dysfunction. Would this worsen as I grow old?",
+    "keywords": [
+      "erectile dysfunction",
+      "worsen",
+      "aging"
+    ]
+  },
+  {
+    "text": "Hey! I have been using Dermonu for about a week now. How soon should I see the results?",
+    "keywords": [
+      "Dermonu",
+      "treatment duration"
+    ]
+  },
+  {
+    "text": "Does Dermonu work for acne scars?",
+    "keywords": [
+      "acne scars",
+      "Dermonu",
+      "effectiveness"
+    ]
+  },
+  {
+    "text": "I have acne ever since I was a teen. Will these go away on their own?",
+    "keywords": [
+      "acne",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Hey quick question. Is it normal to have itching during ovulation? Esp if there is a vaginal discharge?",
+    "keywords": [
+      "ovulation",
+      "itching",
+      "vaginal discharge"
+    ]
+  },
+  {
+    "text": "I have a white vaginal discharge for 2 days now, do I have an STD? Should I get an appointment?",
+    "keywords": [
+      "white vaginal discharge",
+      "STD symptoms"
+    ]
+  },
+  {
+    "text": "Feeling frequent deja vu. I've had maybe 3 panic attack with in the past couple months that has left me a bit anxious and was wondering if it's that?",
+    "keywords": [
+      "deja vu",
+      "panic attack",
+      "diagnosis"
+    ]
+  },
+  {
+    "text": "Recurrent panic attacks, feeling of deja vu, anxiety. Lasting fora few months now. Is this something to worry about?",
+    "keywords": [
+      "Recurrent panic attacks",
+      "deja vu",
+      "anxiety",
+      "diagnosis"
+    ]
+  },
+  {
+    "text": "Why do I have anxiety when I go in an elevator?",
+    "keywords": [
+      "anxiety",
+      "causes"
+    ]
+  },
+  {
+    "text": "How can someone's happiness level affect someone's health?",
+    "keywords": [
+      "happiness",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "Can staying happy improve my health? What specific steps should I take?",
+    "keywords": [
+      "happiness",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "How common is it to have physical anxiety symptoms without feeling anxious?",
+    "keywords": [
+      "physical anxiety symptom",
+      "anxious"
+    ]
+  },
+  {
+    "text": "Breathing exercises are not helping with my anxiety. Should I go to the Emergency Room?",
+    "keywords": [
+      "anxiety",
+      "Emergency Room"
+    ]
+  },
+  {
+    "text": "I have tremors and chest pain. But I am not feeling anxious. Do you think that is normal?",
+    "keywords": [
+      "concerns",
+      "tremor",
+      "chest pain"
+    ]
+  },
+  {
+    "text": "How do add and ADHD differ?",
+    "keywords": [
+      "ADD",
+      "ADHD",
+      "difference"
+    ]
+  },
+  {
+    "text": "Are ADD and ADHD the same? My sister is diagnosed with ADD. So looking out for some stuff to read through.",
+    "keywords": [
+      "add",
+      "adhd",
+      "definition"
+    ]
+  },
+  {
+    "text": "What are the side effects of the treatment for ADHD?",
+    "keywords": [
+      "ADHD",
+      "treatment",
+      "side effects"
+    ]
+  },
+  {
+    "text": "How do I know if I have depression and anxiety?",
+    "keywords": [
+      "depression",
+      "anxiety",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "Can CBT be used to treat anxiety?",
+    "keywords": [
+      "anxiety",
+      "treatment",
+      "CBT"
+    ]
+  },
+  {
+    "text": "What are the symptoms of depression and anxiety?",
+    "keywords": [
+      "depression",
+      "anxiety",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "How long does it take for herpes to break out?",
+    "keywords": [
+      "herpes",
+      "breakout",
+      "duration"
+    ]
+  },
+  {
+    "text": "Can using condoms prevent transmission of herpes? I have a bump on the corner of my lip and I am a little worried. A little help please?",
+    "keywords": [
+      "condoms",
+      "herpes",
+      "prevention"
+    ]
+  },
+  {
+    "text": "I had unprotected sex on the 7th of this month. Is there a specific time that the first outbreak occurs?",
+    "keywords": [
+      "unprotected sex",
+      "outbreak",
+      "timing"
+    ]
+  },
+  {
+    "text": "How should the drug methotrexate affect the cells of the body regarding treatment of arthritis?",
+    "keywords": [
+      "arthritis",
+      "methotrexate",
+      "mechanism of action"
+    ]
+  },
+  {
+    "text": "I fell down 2 months back and my knee is swollen even now. Is this arthritis?",
+    "keywords": [
+      "arthritis",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "I have arthritis and have been prescribed with Methotrexate. How does it work? How long will it take to show its effects?",
+    "keywords": [
+      "arthritis",
+      "methotrexate",
+      "mechanism of action",
+      "duration"
+    ]
+  },
+  {
+    "text": "How to deal with someone acting childish?",
+    "keywords": [
+      "childish behavior",
+      "deal"
+    ]
+  },
+  {
+    "text": "What are the different types of personalities? Is being immature one of them?",
+    "keywords": [
+      "personalities types",
+      "immature"
+    ]
+  },
+  {
+    "text": "How to tell what I am having an allergic reaction to?",
+    "keywords": [
+      "allergic reactions",
+      "tests"
+    ]
+  },
+  {
+    "text": "Can Benadryl help with an itching?",
+    "keywords": [
+      "Benadryl",
+      "itching",
+      "effectiveness"
+    ]
+  },
+  {
+    "text": "I have no idea what's causing these bumps on my body. Is there a specific test that can detect this?",
+    "keywords": [
+      "bumps",
+      "testing",
+      "causes"
+    ]
+  },
+  {
+    "text": "Is hives a common side effect of Minocin? Not sure if this redness is something I should be concerned about?",
+    "keywords": [
+      "Minocin",
+      "side effects",
+      "hives",
+      "redness"
+    ]
+  },
+  {
+    "text": "What can I use for hives on my arm? Is Benadryl okay while taking antibiotics?",
+    "keywords": [
+      "hives",
+      "treatment",
+      "Benadryl",
+      "antibiotics"
+    ]
+  },
+  {
+    "text": "If I had hepatitis a, does that mean I can't drink alcohol for a certain number of weeks afterwards?",
+    "keywords": [
+      "hepatitis 'a'",
+      "alcohol use"
+    ]
+  },
+  {
+    "text": "Can hepatitis A spread via sharing cigarettes or alcohol bottoes of an infected person?",
+    "keywords": [
+      "hepatitis 'a'",
+      "transmission"
+    ]
+  },
+  {
+    "text": "How soon can I drink alcohol after being tested positive for Hep A?",
+    "keywords": [
+      "Hep A",
+      "alcohol use"
+    ]
+  },
+  {
+    "text": "I get one or two acne errupting each month.How do I prevent them?Also the acne leaves scars on my skin. Is there any off the shelf product i could try?",
+    "keywords": [
+      "acne",
+      "prevention",
+      "treatment"
+    ]
+  },
+  {
+    "text": "I have a healed scar on my leg. Would lemon juice help with it?",
+    "keywords": [
+      "lemon juice",
+      "scar healing"
+    ]
+  },
+  {
+    "text": "What are some home remedies? I can use for scars on my face. I have been struggling with acne for quite some time now.",
+    "keywords": [
+      "home remedies",
+      "scar",
+      "acne",
+      "healing"
+    ]
+  },
+  {
+    "text": "I got my period twice within 3 weeks, for the second time within 4 months. Why? I haven't been stressed or changed my exercise plan or diet recently",
+    "keywords": [
+      "Irregular Periods",
+      "causes"
+    ]
+  },
+  {
+    "text": "Can birth control shot cause your period to become irregular? I have spotting and I'm not sure if it is related.",
+    "keywords": [
+      "birth control shot",
+      "irregular periods",
+      "spotting"
+    ]
+  },
+  {
+    "text": "I am a 19 y/o woman who regularly exercises and has a balanced diet. I take multivitamins too. Not sexually active, not on any medications. Lately, my period has been more frequent. This is the 4th month since when it started. I'm a little worried",
+    "keywords": [
+      "Irregular Periods",
+      "causes"
+    ]
+  },
+  {
+    "text": "I had arthroscopic surgery on my left knee almost a month ago but it seems to be filling up with synovial fluid, shoulde i go back to work or wait until i see the doctor?",
+    "keywords": [
+      "arthroscopic surgery",
+      "synovial fluid filling",
+      "concerns"
+    ]
+  },
+  {
+    "text": "How soon can I go to work after an arthroscopic knee surgery? Also, how long does the swelling last? Mine seems to be swelling more and more everyday.",
+    "keywords": [
+      "arthroscopic knee surgery",
+      "swelling",
+      "timing"
+    ]
+  },
+  {
+    "text": "I have tinea versicolor in the testicles and tip of penis. It gets itchy and dry. The doctor sent me a salycilic acid wash. Makes sense?",
+    "keywords": [
+      "tinea versicolor",
+      "testicles",
+      "salycilic acid wash"
+    ]
+  },
+  {
+    "text": "I have itchy and dry discolored patches on the penis and testicles. Doctor thinks it is fungal infection (tinea) and prescribed with CeraVe\u0432\u0402\u2122s Salicylic Acid Cleanser. Will it work?",
+    "keywords": [
+      "patches",
+      "tinea",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Salicylic acid washes did not help me with my cystic acne. Should I ask for antibiotics?",
+    "keywords": [
+      "cystic acne",
+      "antibiotics",
+      "treatment"
+    ]
+  },
+  {
+    "text": "I'm 16 and my left testicle started having somewhat severe pain in it, it hurts more than extremely when I walk and it hits my pants I can't drive help?",
+    "keywords": [
+      "Testicle Pain",
+      "Pain Management"
+    ]
+  },
+  {
+    "text": "Does redness of the testicles mean cancer?",
+    "keywords": [
+      "testicle redness",
+      "cancer",
+      "concerns"
+    ]
+  },
+  {
+    "text": "My left ball hurts and does more when I am walking or if it rubs against my shorts. I am only 16. What's going on?",
+    "keywords": [
+      "Testicle Pain",
+      "Pain Management"
+    ]
+  },
+  {
+    "text": "I'm taking anxiety and depression medicine to avoid panic attacks mainly & avoid er. Can i take more than 0.5 if i feel panic and 0.5 mg doesn't work?",
+    "keywords": [
+      "panic attacks",
+      "anxiety",
+      "depression medicine"
+    ]
+  },
+  {
+    "text": "Can CBT be used to treat anxiety?",
+    "keywords": [
+      "CBT",
+      "anxiety",
+      "treatment"
+    ]
+  },
+  {
+    "text": "I have been on medications for anxiety and depression for about 2 months now. I still have panic attacks. Does this mean I can take a higher dose than my usual 0.5 mg?",
+    "keywords": [
+      "panic attacks",
+      "anxiety",
+      "depression medicine"
+    ]
+  },
+  {
+    "text": "What is the maximum dose of Guanfacine and Risperidal in kids?",
+    "keywords": [
+      "Guanfacine",
+      "Risperidal",
+      "kids",
+      "dose"
+    ]
+  },
+  {
+    "text": "Which medications can Risperidal interact with? I started it 2 days back and I just want to be careful.",
+    "keywords": [
+      "Risperidal",
+      "drug interactions"
+    ]
+  },
+  {
+    "text": "Is aloe vera juice good for hypertension?",
+    "keywords": [
+      "aloe vera juice",
+      "hypertension"
+    ]
+  },
+  {
+    "text": "Hey! Visited the doctor today, he said my blood pressure is 150/90 mmHg. Did not prescribe anything, just told to exercise and diet. Wondering if aloe vera juice would help?",
+    "keywords": [
+      "hypertension",
+      "exercise",
+      "diet",
+      "aloe vera juice"
+    ]
+  },
+  {
+    "text": "Is aloe vera good for the acne on my face and arms?",
+    "keywords": [
+      "acne",
+      "aloe vera",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Is fecal bacteria really unhealthy compared to other bacteria when you are pregnant?",
+    "keywords": [
+      "fecal bacteria",
+      "pregnancy",
+      "concerns"
+    ]
+  },
+  {
+    "text": "Can I take prenatal pills for a healthier pregnancy?",
+    "keywords": [
+      "prenatal pills",
+      "pregnancy",
+      "Health Benefits"
+    ]
+  },
+  {
+    "text": "I am 12 weeks pregnant and went to a beach yesterday. I have read that fecal bacteria in the beaches can be harmful in pregnancy. Is it so?",
+    "keywords": [
+      "fecal bacteria",
+      "pregnancy",
+      "concerns"
+    ]
+  },
+  {
+    "text": "Is hypno-therapy dangerous?",
+    "keywords": [
+      "hypnotherapy",
+      "risks"
+    ]
+  },
+  {
+    "text": "Are effects of hypno-therapy permanent? I heard they can be dangerous. Is it true?",
+    "keywords": [
+      "hypnotherapy",
+      "risks"
+    ]
+  },
+  {
+    "text": "I have anxiety and my doctor advised breathing exercises. I am considering hypno-therapy. Is that normal?",
+    "keywords": [
+      "anxiety",
+      "breathing exercises",
+      "hypnotherapy"
+    ]
+  },
+  {
+    "text": "Is it normal to have nausea and loss of appetite when on my period?",
+    "keywords": [
+      "periods",
+      "nausea",
+      "appetite loss",
+      "concerns"
+    ]
+  },
+  {
+    "text": "Can somebody be pregnant when on their period?",
+    "keywords": [
+      "periods",
+      "pregnant"
+    ]
+  },
+  {
+    "text": "Hey doctor! Started my period yesterday. I feel like puking all the time and don't have any appetite. How can I treat this?",
+    "keywords": [
+      "periods",
+      "nausea",
+      "appetite loss",
+      "concerns"
+    ]
+  },
+  {
+    "text": "My child has low alkaline phosphatase level on his lab results. Why?",
+    "keywords": [
+      "low alkaline phosphatase",
+      "causes"
+    ]
+  },
+  {
+    "text": "Can liver function tests detect cancer?",
+    "keywords": [
+      "liver function tests",
+      "cancer",
+      "diagnosis"
+    ]
+  },
+  {
+    "text": "Hey! My son's reports are back. It shows alkaline phosphatase level: 40 IU/L. Is it low for a child? Should we see the doctor sooner?",
+    "keywords": [
+      "low alkaline phosphatase",
+      "causes"
+    ]
+  },
+  {
+    "text": "What is the treatment for psoariasis?",
+    "keywords": [
+      "psoariasis",
+      "treatment"
+    ]
+  },
+  {
+    "text": "If there is persistent fever even after taking 4 doses of antibiotics (over 48 hours), does it mean it is not working? Cough is the same as it was earlier. Should we go back to the ER? She's 6, I can't see her like this.",
+    "keywords": [
+      "persistent fever",
+      "cough",
+      "antibiotics",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Should antibiotics be prescribed to children below the age of 10 years?",
+    "keywords": [
+      "antibiotics",
+      "prescription",
+      "children"
+    ]
+  },
+  {
+    "text": "Hi, I am almost 12 weeks pregnant and my food had tiny particles of plastic (by mistake) so I am worried; in case I accidentally swallowed some : (?",
+    "keywords": [
+      "pregnancy",
+      "plastic",
+      "foods"
+    ]
+  },
+  {
+    "text": "I just realized I ingested some shreds of plastic film with my food. Would it harm my baby? I am due for my 3 month appointment tomorrow. Should I ask the doctor?",
+    "keywords": [
+      "pregnancy",
+      "plastic",
+      "foods"
+    ]
+  },
+  {
+    "text": "Is it healthy to eat fish during the first trimester of pregnancy? I just got some yesterday and opened the plastic foil. Though I should ask before eating it.",
+    "keywords": [
+      "first trimester",
+      "fish",
+      "foods"
+    ]
+  },
+  {
+    "text": "How can I get a more masculine voice?",
+    "keywords": [
+      "masculine voice",
+      "change"
+    ]
+  },
+  {
+    "text": "My voice seems very high pitched as compared to the rest in my class. Is there a problem with me? What can I do to make it better? Are there any supplements to help?",
+    "keywords": [
+      "masculine voice",
+      "change"
+    ]
+  },
+  {
+    "text": "When do puberty changes in men begin? I'm annoyed with my short height, short size of my penis and feminine voice.",
+    "keywords": [
+      "puberty changes",
+      "men",
+      "age"
+    ]
+  },
+  {
+    "text": "Since I was a child my joints have always clicked but over the years it has got very painful special when it rains or I am cold? How do I fix?",
+    "keywords": [
+      "joint clicks",
+      "pain",
+      "treatment"
+    ]
+  },
+  {
+    "text": "I am currently 17 y/o. I have no past history of joint issues. I have started experiencing pain in my joints during rainy or cold season. Is it related to my childhood habit of clicking my joints?",
+    "keywords": [
+      "joint clicks",
+      "pain",
+      "causes"
+    ]
+  },
+  {
+    "text": "My fingers are very long and I think I can extend them abnormally. Is this something to be worried about. I have no pain or swelling.",
+    "keywords": [
+      "fingers",
+      "length",
+      "concerns"
+    ]
+  },
+  {
+    "text": "What does a doctor do in externsl cronic anal fissure and pls tell me the process of sugery of cronic anal fissure outside my anal there is one small?",
+    "keywords": [
+      "chronic anal fissure",
+      "surgery"
+    ]
+  },
+  {
+    "text": "I think I have anal fissures. I have been having them for quite some time now. I have an appointment tomorrow. What treatment should I discuss with the doctor? Surgery or medical?",
+    "keywords": [
+      "chronic anal fissure",
+      "surgery",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What do you recommend to treat a severed posterior longitudinal ligament?",
+    "keywords": [
+      "posterior longitudinal ligament",
+      "treatment"
+    ]
+  },
+  {
+    "text": "My MRI report is out and it shows Post Longitudnal lig tear. Is there a treatment for this?",
+    "keywords": [
+      "Posterior Longitudinal ligament tear",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What is mecoblamin? What is this medicine usus for?  My mother is diabetic patient, does this medicine useful? Thank you in advance",
+    "keywords": [
+      "mecoblamin",
+      "diabetes"
+    ]
+  },
+  {
+    "text": "My mom is diabetic. She was recently advised to take Mecobalamin. I am not sure how it will help her. Any ideas?",
+    "keywords": [
+      "mecoblamin",
+      "diabetes"
+    ]
+  },
+  {
+    "text": "What is the cleanest/safest SSRI for general stress-induced anxiety?",
+    "keywords": [
+      "SSRI",
+      "stress induced anxiety"
+    ]
+  },
+  {
+    "text": "Are SSRIs the best treatment for stress/anxiety? Which one is the best?",
+    "keywords": [
+      "SSRI",
+      "stress",
+      "anxiety"
+    ]
+  },
+  {
+    "text": "How much physical activity is an adult required to do every day?",
+    "keywords": [
+      "daily physical activity",
+      "adult",
+      "guidelines"
+    ]
+  },
+  {
+    "text": "What are some exercises and changes to lifestyle that I can do? I'm not sure but the doctor has advised me activity modification\". What does it mean?\"",
+    "keywords": [
+      "exercises",
+      "lifestyle",
+      "activity modification"
+    ]
+  },
+  {
+    "text": "Whats a type 1 shellfish allergy?",
+    "keywords": [
+      "shellfish allergy",
+      "types"
+    ]
+  },
+  {
+    "text": "Are there different types of shellfish allergies? I have been diagnosed with type 1. What does it mean?",
+    "keywords": [
+      "shellfish allergies",
+      "types"
+    ]
+  },
+  {
+    "text": "Can I eat fish in second trimester of pregnancy?",
+    "keywords": [
+      "second trimester",
+      "fish",
+      "foods"
+    ]
+  },
+  {
+    "text": "What should I do if I have an allergy of sneezing when i wake upplease tell me what type of disease or allergy it is?",
+    "keywords": [
+      "morning sneezing",
+      "disease",
+      "allergy"
+    ]
+  },
+  {
+    "text": "I cleaned my room and started sneezing. What can I take for it?",
+    "keywords": [
+      "sneezing",
+      "room cleaning",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Can I take any medication for pain due to suprapatellar bursitis? Unable to exercise.",
+    "keywords": [
+      "suprapatellar bursitis",
+      "pain management"
+    ]
+  },
+  {
+    "text": "Hey doc! My doctor diagnosed me with suprapatellar bursitis. Are there any exercises that I can do at home?",
+    "keywords": [
+      "suprapatellar bursitis",
+      "home physical exercises",
+      "treatment"
+    ]
+  },
+  {
+    "text": "What to do if I have hypertension, depression of lost love, completely broke. what to do?",
+    "keywords": [
+      "hypertension",
+      "depression",
+      "treatment"
+    ]
+  },
+  {
+    "text": "I recently lost my job and the love of my life. The RN who saw me yesterday said I have high blood pressure. Will I be diagnosed with depression?",
+    "keywords": [
+      "high blood pressure",
+      "depression",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "Whenever I look at girls, I get palpitations and I get super-nervous. I think I have a high blood pressure when this happens too. Is this normal?",
+    "keywords": [
+      "stress",
+      "symptoms",
+      "high blood pressure"
+    ]
+  },
+  {
+    "text": "Which hormones are responsible for giving you a male features on your face?",
+    "keywords": [
+      "hormones",
+      "male features"
+    ]
+  },
+  {
+    "text": "Can I take some hormones to make my face more masculine? I just want to impress my girlfriend. :D",
+    "keywords": [
+      "hormones",
+      "masculine face"
+    ]
+  },
+  {
+    "text": "Can Oral contraceptive pills cause a woman to look less masculine?",
+    "keywords": [
+      "Oral contraceptive pills",
+      "woman",
+      "less masculine"
+    ]
+  },
+  {
+    "text": "Which treatment works the best and fastest for aortic regurgitation?",
+    "keywords": [
+      "aortic regurgitation",
+      "treatment"
+    ]
+  },
+  {
+    "text": "I have chest pain and breathing difficulty. Do I have a heart disease?",
+    "keywords": [
+      "chest pain",
+      "breathing difficulty",
+      "heart disease"
+    ]
+  },
+  {
+    "text": "My ECHO report shows Aortic Regurgitation. How is this treated? I already have an appointment on Friday.",
+    "keywords": [
+      "Aortic Regurgitation",
+      "treatment"
+    ]
+  },
+  {
+    "text": "Why does my arm always fall asleep? Like to the point where i can't move it at all",
+    "keywords": [
+      "arm",
+      "numbness",
+      "causes"
+    ]
+  },
+  {
+    "text": "I have neck pain and arm numbness. Are both related?",
+    "keywords": [
+      "neck pain",
+      "arm numbness",
+      "relation"
+    ]
+  },
+  {
+    "text": "Is it normal for my arm to feel numb all the time? I cannot even move it.",
+    "keywords": [
+      "arm",
+      "numbness",
+      "causes"
+    ]
+  },
+  {
+    "text": "Why do I have white pigmentation skin colour around my anus and extreme itching and blisters around the anus and anal cleft?",
+    "keywords": [
+      "anus",
+      "itching",
+      "blisters",
+      "anal cleft",
+      "causes"
+    ]
+  },
+  {
+    "text": "Hey! I observed recently that the skin near the butthole is white and extremely itchy. Is it normal? If not, what could be the cause?",
+    "keywords": [
+      "anus",
+      "itching",
+      "causes"
+    ]
+  },
+  {
+    "text": "Isn't anal sex the only reason for HIV transmission?",
+    "keywords": [
+      "anal sex",
+      "HIV transmission"
+    ]
+  },
+  {
+    "text": "Will taking birth control pills for treatment of dysmenorrhea affect my fertility later once married?",
+    "keywords": [
+      "birth control pills",
+      "fertility",
+      "affect"
+    ]
+  },
+  {
+    "text": "I have irregular periods and get severe pain when on my period. My doctor has prescribed me with Sprintec. My boyfriend is a little concerned of the long term effects. Will we be able to conceive once I stop it?",
+    "keywords": [
+      "Sprintec",
+      "conceive",
+      "long term effects"
+    ]
+  },
+  {
+    "text": "Will taking birth control pills for treatment of dysmenorrhea affect my fertility later once married?",
+    "keywords": [
+      "birth control pills",
+      "fertility",
+      "affect"
+    ]
+  },
+  {
+    "text": "Is painful periods common with birth control pills?",
+    "keywords": [
+      "painful periods",
+      "birth control pills"
+    ]
+  },
+  {
+    "text": "How does a heart attack present in a 36 year old female?",
+    "keywords": [
+      "heart attack",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "Very short lasting but acute chest pains for a few weeks now, with no past history of chest/cardiac disease could indicate something serious?",
+    "keywords": [
+      "acute chest pains",
+      "causes"
+    ]
+  },
+  {
+    "text": "Can voren that is used for post op inflammation be also prescribed for a fever in a kid?",
+    "keywords": [
+      "voren",
+      "fever",
+      "kid"
+    ]
+  },
+  {
+    "text": "My 3 year old has a high grade fever for 2 days now, what should I do?",
+    "keywords": [
+      "fever",
+      "child",
+      "treatment"
+    ]
+  }
+]

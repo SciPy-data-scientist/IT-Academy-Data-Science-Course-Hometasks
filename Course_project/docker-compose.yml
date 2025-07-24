@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend  # Путь к папке с Dockerfile бэкенда
+    ports:
+      - "8001:8000"  # Проброс порта 8000 из контейнера на 8001 хоста
+    environment:
+      - PYTHONPATH=/app/src  # Если нужно для импортов
+    volumes:
+      - ./backend:/app  # Для live-перезагрузки кода (опционально)
+
+  frontend:
+    build: ./frontend  # Путь к папке с Dockerfile фронтенда
+    ports:
+      - "8501:8501"  # Streamlit порт
+    depends_on:
+      - backend  # Ждём запуска бэкенда
+    environment:
+      - BACKEND_URL=http://backend:8000  # Переменная для обращения к бэкенду
+    volumes:
+      - ./frontend/src:/app/src  # Для live-перезагрузки фронтенда

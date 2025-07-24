@@ -1,0 +1,240 @@
+[
+  {
+    "text": "I have a child. I feel like at his age it's time to brush his teeth. But I don't know if it's too early to start. Also, I don't know which toothpaste to choose, with or without fluoride. I'm also wondering what kind of toothbrush would be safe for a young child.",
+    "keywords": [
+      "child",
+      "fluoride",
+      "toothpaste",
+      "toothbrush"
+    ]
+  },
+  {
+    "text": "I have high blood pressure and diabetes. But I like to drink coffee. How many cups of coffee can I drink a day? When is it better for me to drink it during the day? What type of coffee  should I drink?",
+    "keywords": [
+      "high blood pressure",
+      "diabetes",
+      "coffee consumption",
+      "coffee type"
+    ]
+  },
+  {
+    "text": "I have an infant. I want to make a crib for him to sleep in. I heard that babies that age should sleep without a blanket and pillow? Is that true?",
+    "keywords": [
+      "infant",
+      "sleep",
+      "crib",
+      "blanket",
+      "pillow"
+    ]
+  },
+  {
+    "text": "I want my preschool age child to start playing sports. But I don't know what kind of sport would be good for him. What kind of sports can I offer him?",
+    "keywords": [
+      "preschool child",
+      "sports",
+      "benefits"
+    ]
+  },
+  {
+    "text": "I like to vacation at the sea and spend a lot of time on the beach swimming. It seems to me that it is very good for health. How true is that?\"",
+    "keywords": [
+      "vacation",
+      "sea",
+      "health benefits"
+    ]
+  },
+  {
+    "text": "I have high blood pressure. My doctor has prescribed medicines to lower it. But I do not want to take them because I am afraid that I will have to take them for the rest of my life. How important is it to take these medicines?",
+    "keywords": [
+      "high blood pressure",
+      "medicines"
+    ]
+  },
+  {
+    "text": "I like to consume red wine. But there is a lot of conflicting information about its benefits or harms. How much wine is safe to consume per day?",
+    "keywords": [
+      "red wine",
+      "health benefits",
+      "risks"
+    ]
+  },
+  {
+    "text": "I don't know which is better, breastfeeding or formula feeding? I want to ensure maximum benefit for my baby.",
+    "keywords": [
+      "breastfeeding",
+      "formula feeding",
+      "benefits"
+    ]
+  },
+  {
+    "text": "I know that men get prostate problems as they age. I would like to avoid them. At what age should men have a medical examination to rule out prostate problems?",
+    "keywords": [
+      "medical exams",
+      "prostate health",
+      "age"
+    ]
+  },
+  {
+    "text": "I have pain and dizziness. I fear that I have high blood pressure. What are the symptoms of high blood pressure?",
+    "keywords": [
+      "high blood pressure",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "I'm a middle-aged man. I am at risk for high blood pressure. How can I prevent high blood pressure?",
+    "keywords": [
+      "middle-aged man",
+      "middle-aged man",
+      "prevention"
+    ]
+  },
+  {
+    "text": "Who is at risk for high blood pressure? My relatives have had problems with high blood pressure in the past. Do I belong to the risk group?",
+    "keywords": [
+      "high blood pressure",
+      "risk group",
+      "family history"
+    ]
+  },
+  {
+    "text": "My parents have been diagnosed with high blood pressure. What are some effective treatments for high blood pressure?",
+    "keywords": [
+      "High Blood Pressure",
+      "Treatments"
+    ]
+  },
+  {
+    "text": "I have an argument with my parents about normal blood pressure at different ages. They argue that an increase in normal blood pressure with age is normal. Does normal blood pressure vary with age?",
+    "keywords": [
+      "Normal Blood Pressure",
+      "Age Differences"
+    ]
+  },
+  {
+    "text": "I know about effective prescription therapeutic treatments for high blood pressure. Are there effective over-the-counter treatments for high blood pressure?",
+    "keywords": [
+      "High Blood Pressure",
+      "Over-the-Counter",
+      "Therapies"
+    ]
+  },
+  {
+    "text": "What are Urinary Tract Infections?",
+    "keywords": [
+      "Urinary Tract Infections",
+      "symptoms"
+    ]
+  },
+  {
+    "text": "I have been diagnosed with a urinary tract infection. But I'm not sure how I got the infection. What causes urinary tract infections?",
+    "keywords": [
+      "Urinary tract infection",
+      "diagnosis",
+      "causes"
+    ]
+  },
+  {
+    "text": "I've been diagnosed with thrush. The doctor claims I have a urinary tract infection. What are their symptoms other than thrush?",
+    "keywords": [
+      "Thrush",
+      "Urinary tract infection",
+      "Symptoms"
+    ]
+  },
+  {
+    "text": "I try to take care of my intimate health. But it is difficult to do so with an active sexual life. How can I prevent urinary tract infections?",
+    "keywords": [
+      "Uterinary Tract Infections",
+      "Sexual Health"
+    ]
+  },
+  {
+    "text": "I am the mother of a teenage girl. I would like to prevent her from developing cancer caused by the human papillomavirus in the future. At what age should girls be vaccinated against the human papillomavirus?",
+    "keywords": [
+      "vaccination",
+      "human papillomavirus",
+      "teenage girl"
+    ]
+  },
+  {
+    "text": "Should girls be vaccinated against human papillomavirus?",
+    "keywords": [
+      "Human Papillomavirus",
+      "Vaccination",
+      "Girls"
+    ]
+  },
+  {
+    "text": "I heard that there is a vaccination against human papillomavirus for girls. But do boys need to be vaccinated against human papillomavirus?",
+    "keywords": [
+      "Human Papillomavirus",
+      "Vaccination",
+      "Boys"
+    ]
+  },
+  {
+    "text": "Should boys be vaccinated against HPV?",
+    "keywords": [
+      "HPV",
+      "Vaccination",
+      "Boys"
+    ]
+  },
+  {
+    "text": "Should girls be vaccinated against HPV?",
+    "keywords": [
+      "HPV",
+      "Vaccination",
+      "Girls"
+    ]
+  },
+  {
+    "text": "At what age should girls be vaccinated against HPV?",
+    "keywords": [
+      "HPV vaccination",
+      "age",
+      "girls"
+    ]
+  },
+  {
+    "text": "Are immunizations safe for children?",
+    "keywords": [
+      "Immunizations",
+      "Children",
+      "Safety"
+    ]
+  },
+  {
+    "text": "Are immunizations harmless for children?",
+    "keywords": [
+      "Immunizations",
+      "Children",
+      "Safety"
+    ]
+  },
+  {
+    "text": "My baby doesn't want to stop using the pacifier. Until what age is it safe for my child to use a pacifier?",
+    "keywords": [
+      "Pacifier",
+      "Safety",
+      "Child Development"
+    ]
+  },
+  {
+    "text": "What kind of pacifiers can I use for my baby?",
+    "keywords": [
+      "pacifiers",
+      "baby",
+      "options"
+    ]
+  },
+  {
+    "text": "Until what age can a baby be breastfed?",
+    "keywords": [
+      "Breastfeeding",
+      "child age",
+      "Guidelines"
+    ]
+  }
+]

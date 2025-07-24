@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = ""
+authors = ["Boris Odnoburtsev <odnoburtsev@gmail.com>"]
+packages = [{include = "predictor", from = "src"}, { include = "src", format = "sdist" }]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.12"
+uvicorn = "^0.34.2"
+transformers = "^4.51.3"
+torch = "^2.7.0"
+python-multipart = "^0.0.20"
+pydantic = "^2.11.4"
+openai = "^1.78.1"
+sentencepiece = "^0.2.0"
+sacremoses = "^0.1.1"
+
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^7.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
